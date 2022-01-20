@@ -1,4 +1,4 @@
-### Hi I'm Frukan 👋 
+### Hi I'm Furkan 👋 
 
 - 📘 I am accountant Cpa.
 - 🏢 I work as a cofounder in an accounting company [ARICI SMMM LTD](http://www.aricimalimusavirlik.com.tr). 
