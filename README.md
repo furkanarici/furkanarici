@@ -2,7 +2,7 @@
 
 - 📘 I’m Certified Public Accountant (CPA).
 - 🏢 I work as a cofounder in an accounting company [ARICI SMMM LTD](http://www.aricimalimusavirlik.com.tr).
-- 🌱 I’m developing web applications related to my profession. [Aposkal](https://app.aposkal.com)
+- 🌱 I’m developing web applications related to my profession. [Aposkal](https://www.aposkal.com)
 - 📫 Contact me furkan@furkanarici.com or [twitter](https://twitter.com/aricifurkan)
 
 <!-- - 💻 I've been learning ![HTML](https://img.shields.io/badge/HTML-e34f26), ![CSS](https://img.shields.io/badge/CSS-2965f1) and ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e) for a while. -->
